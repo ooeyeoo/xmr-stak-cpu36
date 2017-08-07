@@ -140,8 +140,8 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "xmr.pool.minergate.com:45560",
-"wallet_address" : "kuoway@qq.com",
+"pool_address" : "pool.minexmr.com:5555",
+"wallet_address" : "44vP9ZP21YFMvo21fXYxwcYNiXno6hP9RPt2FYndW7GNGA2R3cCw6ipXAzuNnxJXtzhTAWabemNsVgEoiUsr8VHDBqqSdTa",
 "pool_password" : "",
 
 /*
